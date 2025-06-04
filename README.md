@@ -33,8 +33,6 @@ A fun, interactive Streamlit app that visualizes the top 5 tracks from Last.fm b
    ```bash
    pip install -r requirements.txt
    ```
-
-   ```
 4. **Configure the API Key**
 
 - Create a `.env` file in the project root.
