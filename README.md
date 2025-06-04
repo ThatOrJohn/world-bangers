@@ -30,7 +30,7 @@ A fun, interactive Streamlit app that visualizes the top 5 tracks from Last.fm b
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 3. **Install Dependencies**
-   ``bash
+   ```bash
    pip install -r requirements.txt
    ```
 
